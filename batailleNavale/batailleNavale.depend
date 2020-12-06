@@ -1,11 +1,15 @@
 # depslib dependency file v1.0
-1606907209 source:c:\users\marin\desktop\cours\fd 2\algo\exercices\bataillenavale\bataillenavale\init.c
+1607274207 source:c:\users\marin\desktop\cours\fd 2\algo\exercices\bataillenavale\bataillenavale\init.c
 	"define.h"
 
-1606907656 c:\users\marin\desktop\cours\fd 2\algo\exercices\bataillenavale\bataillenavale\define.h
+1607276545 c:\users\marin\desktop\cours\fd 2\algo\exercices\bataillenavale\bataillenavale\define.h
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 
-1606907916 source:c:\users\marin\desktop\cours\fd 2\algo\exercices\bataillenavale\bataillenavale\main.c
+1607278377 source:c:\users\marin\desktop\cours\fd 2\algo\exercices\bataillenavale\bataillenavale\main.c
+	"define.h"
+
+1607276548 source:c:\users\marin\desktop\cours\fd 2\algo\exercices\bataillenavale\bataillenavale\partie.c
 	"define.h"
 

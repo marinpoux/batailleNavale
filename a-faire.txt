@@ -1,0 +1,8 @@
+A revoir: haha youpie
+
+- incorporer le type coordonnees dans le type bateau!
+- creer fonction "generique" pour l'affichage de tableaux (char ou int)
+- creer fonction "generique" pour l'initialisation de tableaux + contenu en argument
+- separer l'affichage en général dans fonctions dédiées
+- ranger les fonctions dans codes-source correspondants et pertinents (initialisation, général, affichage... ?)
+- utiliser uniquement des types structurés, et réduire l'utilisation de tableaux à l'affichage
